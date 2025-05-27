@@ -15,12 +15,12 @@
     "nodes" : [
         {
             "mesh" : 0,
-            "name" : "STR1_hera_satellite_assy_08_outer_shape_20220225.003",
+            "name" : "STR2_hera_satellite_assy_08_outer_shape_20220225.003",
             "rotation" : [
-                0.7071068286895752,
+                -0.258819043636322,
                 0,
                 0,
-                0.7071067094802856
+                0.9659258127212524
             ],
             "translation" : [
                 -0.47999998927116394,
@@ -96,7 +96,7 @@
     "buffers" : [
         {
             "byteLength" : 373884,
-            "uri" : "STR1_hera_satellite_assy_08_outer_shape_20220225.003.bin"
+            "uri" : "STR2_hera_satellite_assy_08_outer_shape_20220225.003.bin"
         }
     ]
 }
