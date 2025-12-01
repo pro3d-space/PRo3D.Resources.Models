@@ -1,0 +1,2 @@
+*hera.obj filter=lfs diff=lfs merge=lfs -text
+*hera.obj_0.kd filter=lfs diff=lfs merge=lfs -text
